@@ -55,6 +55,26 @@ const App = () => {
         </p>
       </div>
 
+      {/* Video 5 */}
+      <div className="card">
+        <h3>#5</h3>
+        <p><strong>sana :</strong> 30</p>
+        <p><strong>reel ideasi :</strong></p>
+        <p className="idea">
+          2 ta dost boladi va ular sayrga chiqashga magazindan qaysi suvni tanlashganda LA KUBA ni tanlashadi va ssena boshqa vaziyatga otadi u yerda esa dostlar endi kinoga borishmoqchi bo'lishadi va magazindan hudda o'sha LA KUBA opchiqishadi ssena yana ozgarada va dostlar endi chanqagak bolashadi va yana LA KUBA olishadi va oxirgi martda ssena ozgaradi va endi esa dostlar boshqa dostlari bilan yeg'ilishmoqchi bo'lishadi va qaysi suv olishga qaror qilishganda LA KUBA tanlashadi
+        </p>
+      </div>
+
+      {/* Video 6 */}
+      <div className="card">
+        <h3>#6</h3>
+        <p><strong>sana :</strong> 3-noyabr</p>
+        <p><strong>reel ideasi :</strong></p>
+        <p className="idea">
+          montajer ish qilayotgan bo'ladi va u charchab oxiri boshini stolga qo'yadi va keyn bir shaxs yokida qo'l uning oldiga LA KUBA TR yani LA KUBA energetic bankani qoyadi va montajorchi uni ichib energiya kirishib ozining ishiga qaytadi va uni bitirb oxirga ssenada ozining boshlig'iga korsatadi va boshliqdan maqtovga erishadi
+        </p>
+      </div>
+
       {/* ===================== FOTOLAR ===================== */}
       <h2>FOTOLAR (postlar)</h2>
 
@@ -66,7 +86,7 @@ const App = () => {
         <p><strong>carousel :</strong></p>
         <p className="idea">
           1-fotoda odam LA KUBA ichib turgan boladi tepada esa yozga qaytmoqchimisiz ? degan tekst turadi
-          2-fotada esa osha LA KUBA ichgan odam yozga oxshagan backgroundda qarab turgan boladi va tepada tabrikayman siz yozga qaytdingiz degan tekst turadi
+          2-fotada esa osha LA KUBA ichgan odam yozga oxshagan backgroundda qarab turgan boladi va tepada tabrikayman siz yozga qaytdingiz degan tekst tura
         </p>
       </div>
 
@@ -95,7 +115,7 @@ const App = () => {
       {/* Foto 4 */}
       <div className="card">
         <h3>#4</h3>
-        <p><strong>sana :</strong> 1-noyabr</p>
+        <p><strong>sana :</strong> 30-oktabr</p>
         <p><strong>type :</strong> carousel</p>
         <p><strong>carousel :</strong></p>
         <p className="idea">
@@ -109,4 +129,3 @@ const App = () => {
 };
 
 export default App;
-
