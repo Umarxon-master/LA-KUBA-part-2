@@ -12,31 +12,7 @@ const App = () => {
       {/* Video 1 */}
       <div className="card">
         <h3>#1</h3>
-        <p><strong>sana :</strong> 16-oktabr</p>
-        <p><strong>reel ideasi :</strong></p>
-        <p className="idea">
-          hook : LA KUBA qanday ishlab chiqiladi va unga nimalar qo‘shiladi?<br />
-          CONCEPT : Iloji bo‘lsa product qanday ishlab chiqishi, nimalar qo‘shilishi va ishlab chiqarish jarayonini odamlarga ishlab chiqarish joyidayoq ko‘rsatish kerak<br />
-          CTA : Sifat va ishlab chiqarish jarayonini ko‘rsatish.
-        </p>
-      </div>
-
-      {/* Video 2 */}
-      <div className="card">
-        <h3>#2</h3>
-        <p><strong>sana :</strong> 20-oktabr</p>
-        <p><strong>reel ideasi :</strong></p>
-        <p className="idea">
-          hook : “Bitta ichay” degan do‘st hammamizda bor 😄<br />
-          CONCEPT : 2 odam Reel’da bo‘ladi. Birinchi do‘st qo‘liga LA KUBA oladi. Ikkinchi do‘st undan bitta ichay deb so‘raydi.
-          Birinchi do‘st uning oldingi safar LA KUBA’sini oxirigacha ichib qo‘yganini eslab rad etadi. Lekin ikkinchi do‘st baribir qo‘lining gapida turib, LA KUBA’ni olib yarisidan ko‘pini ichib qo‘yadi.
-        </p>
-      </div>
-
-      {/* Video 3 */}
-      <div className="card">
-        <h3>#3</h3>
-        <p><strong>sana :</strong> 24-oktabr</p>
+        <p><strong>sana :</strong> 21-oktabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
           bir odam boladi uning o‘ng qolida suv turadi va suv turgan qolning background kulrang boladi
@@ -44,34 +20,75 @@ const App = () => {
         </p>
       </div>
 
+      {/* Video 2 */}
+      <div className="card">
+        <h3>#2</h3>
+        <p><strong>sana :</strong> 24-oktabr</p>
+        <p><strong>reel ideasi :</strong></p>
+        <p className="idea">
+          Oddiy suv quyilayotgan stakan (zerikarli sekin harakat) → keyin La Kuba quyiladi (tez va rangli)
+        </p>
+      </div>
+
+      {/* Video 3 */}
+      <div className="card">
+        <h3>#3</h3>
+        <p><strong>sana :</strong> 27-oktabr</p>
+        <p><strong>reel ideasi :</strong></p>
+        <p className="idea">
+          Banka sekin aylantiriladi juda tez aylantiriladi va har 2 sekundan keyin slow motion bo'ladi va u 1 sekund davom etadi 
+          har bir slow motion sekunda so'zlar ko'rinadi 1-Tabiiy 2-Halal 3-SHATOOT 4-LA KUBA
+        </p>
+      </div>
+
       {/* Video 4 */}
       <div className="card">
         <h3>#4</h3>
-        <p><strong>sana :</strong> 28-oktabr</p>
+        <p><strong>sana :</strong> 30-oktabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
-          ikta bokal (kurushka) turadi birinchisiga oddiy suv quyiladi va zerikarli hechqanday positive yoq bolgan muzika oynaydi
-          ikkinchisiga esa LA KUBE quyiladi va muzika positive ga ozgaradi
+          tepada tekst : "before" shaxs ko'chada zerikib yani hafa bo'lganday yuradi lekin LA KUBA SHATOOT ichgandan keyin ssena o'zgaradi endi tekst "after" ga o'zgaradi va shaxsning nastroyeniyasi yaxshi va quvonchga o'zgaradi 
+          keyin ssena endi ofisda ishlayotgan shaxsga o'zgaradi va u yerda 1-ssenada "before" da shaxs charchaganga oxshaydi va keyin u LA KUBA energietic ichadi va 2-ssenda "after" da shaxsga endi energiya kiradi yani u ishini alo darajada bajaryotgande o'zini ko'rsatadi
         </p>
       </div>
 
       {/* Video 5 */}
       <div className="card">
         <h3>#5</h3>
-        <p><strong>sana :</strong> 30</p>
+        <p><strong>sana :</strong> 2-noyabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
-          2 ta dost boladi va ular sayrga chiqashga magazindan qaysi suvni tanlashganda LA KUBA ni tanlashadi va ssena boshqa vaziyatga otadi u yerda esa dostlar endi kinoga borishmoqchi bo'lishadi va magazindan hudda o'sha LA KUBA opchiqishadi ssena yana ozgarada va dostlar endi chanqagak bolashadi va yana LA KUBA olishadi va oxirgi martda ssena ozgaradi va endi esa dostlar boshqa dostlari bilan yeg'ilishmoqchi bo'lishadi va qaysi suv olishga qaror qilishganda LA KUBA tanlashadi
+          ?
         </p>
       </div>
 
       {/* Video 6 */}
       <div className="card">
         <h3>#6</h3>
-        <p><strong>sana :</strong> 3-noyabr</p>
+        <p><strong>sana :</strong> 5-noyabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
-          montajer ish qilayotgan bo'ladi va u charchab oxiri boshini stolga qo'yadi va keyn bir shaxs yokida qo'l uning oldiga LA KUBA TR yani LA KUBA energetic bankani qoyadi va montajorchi uni ichib energiya kirishib ozining ishiga qaytadi va uni bitirb oxirga ssenada ozining boshlig'iga korsatadi va boshliqdan maqtovga erishadi
+          ?
+        </p>
+      </div>
+
+      {/* Video 7 */}
+      <div className="card">
+        <h3>#7</h3>
+        <p><strong>sana :</strong> 7-noyabr</p>
+        <p><strong>reel ideasi :</strong></p>
+        <p className="idea">
+          ?
+        </p>
+      </div>
+
+      {/* Video 8 */}
+      <div className="card">
+        <h3>#8</h3>
+        <p><strong>sana :</strong> 10-noyabr</p>
+        <p><strong>reel ideasi :</strong></p>
+        <p className="idea">
+          ?
         </p>
       </div>
 
@@ -81,13 +98,14 @@ const App = () => {
       {/* Foto 1 */}
       <div className="card">
         <h3>#1</h3>
-        <p><strong>sana :</strong> 18-oktabr</p>
+        <p><strong>sana :</strong> 20-oktabr</p>
         <p><strong>type :</strong> carousel</p>
         <p><strong>carousel :</strong></p>
         <p className="idea">
           1-fotoda odam LA KUBA ichib turgan boladi tepada esa yozga qaytmoqchimisiz ? degan tekst turadi
           2-fotada esa osha LA KUBA ichgan odam yozga oxshagan backgroundda qarab turgan boladi va tepada tabrikayman siz yozga qaytdingiz degan tekst tura
         </p>
+        <p><strong>caption :</strong> Yozga qaytmoqchimisiz? 🌞 La Kuba bilan his qiling!</p>
       </div>
 
       {/* Foto 2 */}
@@ -99,30 +117,81 @@ const App = () => {
         <p className="idea">
           bir odam magazinadan LA KUBA bankalarini ogirlayotgan boladi orqasidan esa qoravul quylab yurgan bo‘ladi
         </p>
+        <p><strong>caption :</strong> La Kuba shunchalik zo‘rki, hatto qo‘riqchi ham quvib yuribdi 😂</p>
       </div>
 
       {/* Foto 3 */}
       <div className="card">
         <h3>#3</h3>
-        <p><strong>sana :</strong> 26-oktabr</p>
+        <p><strong>sana :</strong> 25-oktabr</p>
         <p><strong>type :</strong> post</p>
         <p><strong>post :</strong></p>
         <p className="idea">
           odam trenajorny zalda bo‘ladi va qo‘lini LA KUBE energy drink uzotvotgan bo‘ladi shaxsning yuzi va oyoqlari korinmaydi faqat tananing orta qismi
         </p>
+        <p><strong>caption :</strong> Mashqdan oldin energiya kerakmi? La Kuba Energy bilan boshlang </p>
       </div>
 
       {/* Foto 4 */}
       <div className="card">
         <h3>#4</h3>
-        <p><strong>sana :</strong> 30-oktabr</p>
+        <p><strong>sana :</strong> 28-oktabr</p>
         <p><strong>type :</strong> carousel</p>
         <p><strong>carousel :</strong></p>
         <p className="idea">
-          1-fotada tekst yoziladi va tekstda : "siz odamning tanasida har narsaning nechta % borligini bilarmidingiz" degan tekst chiqadi
+          1-fotoda tekst yoziladi va tekstda : "siz odamning tanasida har narsaning nechta % borligini bilarmidingiz" degan tekst chiqadi
           va 2-fotoda odamning tanasida % nima borligini normal holatda korsatiladi va % ichida : suv boladi taxminan 80% va tepasida “oddiy odamlar” degan tekst turadi
           3-fotoda esa odamning tanasida 99% faqat LA KUBA borligini korsatilinadi va tepadagi tekst “men :” deb yozilgan bo‘ladi
         </p>
+        <p><strong>caption :</strong> Oddiy odamlar 80% suv... Men esa 99% La Kuba </p>
+      </div>
+
+      {/* Foto 5 */}
+      <div className="card">
+        <h3>#5</h3>
+        <p><strong>sana :</strong> 31-oktabr</p>
+        <p><strong>type :</strong> post</p>
+        <p><strong>post ideasi :</strong></p>
+        <p className="idea">
+          Oddiy suv stakani va La Kuba bankasi yonma-yon va captionda
+        </p>
+        <p><strong>caption :</strong> Suv yaxshi, La Kuba esa undan ham yaxshi !</p>
+      </div>
+
+      {/* Foto 6 */}
+      <div className="card">
+        <h3>#6</h3>
+        <p><strong>sana :</strong> 3-noyabr</p>
+        <p><strong>type :</strong> post</p>
+        <p><strong>post ideasi :</strong></p>
+        <p className="idea">
+          Ikki banka yonma-yon: biri Classic, biri Strawberry
+        </p>
+        <p><strong>caption :</strong> Qaysi birini tanlaysiz? Classic yoki Strawberry? 🍓</p>
+      </div>
+
+      {/* Foto 7 */}
+      <div className="card">
+        <h3>#7</h3>
+        <p><strong>sana :</strong> 6-noyabr</p>
+        <p><strong>type :</strong> post</p>
+        <p><strong>post ideasi :</strong></p>
+        <p className="idea">
+          Banka deraza oldida, quyosh nuri tushib turibdi 
+        </p>
+        <p><strong>caption :</strong> Yorug‘ kun + La Kuba = 😍</p>
+      </div>
+
+      {/* Foto 8 */}
+      <div className="card">
+        <h3>#8</h3>
+        <p><strong>sana :</strong> 9-noyabr</p>
+        <p><strong>type :</strong> post</p>
+        <p><strong>post ideasi :</strong></p>
+        <p className="idea">
+          Stol ustida limon, yalpiz va banka (hammasi tepadan olingan) captionda 
+        </p>
+        <p><strong>caption :</strong> Ingredientlar oddiy, ta’m ajoyib 🍋🌿</p>
       </div>
     </div>
   );
