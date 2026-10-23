@@ -12,53 +12,60 @@ const App = () => {
       {/* Video 1 */}
       <div className="card">
         <h3>#1</h3>
-        <p><strong>sana :</strong> 21-oktabr</p>
+        <p><strong>sana :</strong> 26-oktabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
           bir odam boladi uning o‘ng qolida suv turadi va suv turgan qolning background kulrang boladi
           va uning chap qo‘lida esa LA KUBA bo‘ladi odam hayajonlanib LA KUBA ichida va butun background rangli yani normal holatiga tushadi
+          (bu reel ko'chada olinadi)
         </p>
       </div>
 
       {/* Video 2 */}
       <div className="card">
         <h3>#2</h3>
-        <p><strong>sana :</strong> 24-oktabr</p>
+        <p><strong>sana :</strong> 28-oktabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
-          Oddiy suv quyilayotgan stakan (zerikarli sekin harakat) → keyin La Kuba quyiladi (tez va rangli)
+          leaderboard bo'ladi 1-7 gacha va shaxsga biz har hil tamli LA KUBA ni beramiz 
+          va ular har bir bankani ichib leadorboard da o'rin beradilar qisqa etkanda bu blink ranking 
+          (bu reel ofisda olinadi)
         </p>
       </div>
 
       {/* Video 3 */}
       <div className="card">
         <h3>#3</h3>
-        <p><strong>sana :</strong> 27-oktabr</p>
+        <p><strong>sana :</strong> 30-oktabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
           Banka sekin aylantiriladi juda tez aylantiriladi va har 2 sekundan keyin slow motion bo'ladi va u 1 sekund davom etadi 
           har bir slow motion sekunda so'zlar ko'rinadi 1-Tabiiy 2-Halal 3-SHATOOT 4-LA KUBA
+          (bu reel ofisda olinadi)
         </p>
       </div>
 
       {/* Video 4 */}
       <div className="card">
         <h3>#4</h3>
-        <p><strong>sana :</strong> 30-oktabr</p>
+        <p><strong>sana :</strong> 1-noyabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
           tepada tekst : "before" shaxs ko'chada zerikib yani hafa bo'lganday yuradi lekin LA KUBA SHATOOT ichgandan keyin ssena o'zgaradi endi tekst "after" ga o'zgaradi va shaxsning nastroyeniyasi yaxshi va quvonchga o'zgaradi 
           keyin ssena endi ofisda ishlayotgan shaxsga o'zgaradi va u yerda 1-ssenada "before" da shaxs charchaganga oxshaydi va keyin u LA KUBA energietic ichadi va 2-ssenda "after" da shaxsga endi energiya kiradi yani u ishini alo darajada bajaryotgande o'zini ko'rsatadi
+          (bu reel kochada ham ofisda ham olinadi)
         </p>
       </div>
 
       {/* Video 5 */}
       <div className="card">
         <h3>#5</h3>
-        <p><strong>sana :</strong> 2-noyabr</p>
+        <p><strong>sana :</strong> 3-noyabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
-          ?
+          hook bo'ladi : "har bir la kuba bankalari" har bir la kuba bankalari video ga tushadi orqasidan bankaga mos bo'lgan 
+          background rang qo'yiladi har bir banka 1 sekundan tushadi kamera har doim qimirlayotgan bo'ladi va CTA : "siz qaysi tamni tanlaysiz?"
+          (bu reel ofisda olinadi)
         </p>
       </div>
 
@@ -68,7 +75,9 @@ const App = () => {
         <p><strong>sana :</strong> 5-noyabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
-          ?
+          lakuba qog'ozga oralgan bo'ladi va kochada odamlardan so'raymiz "bu qog'ozning ichidagi ichimlikmi yoki 5ming som?"
+          birinchi va ikkinchi odam pullarni tanlashadi lekin 3-odam la kuba ni tanlayda ichadi va 1-10 gacha baho beradi baho 8 pas bo'lishi mumkinmas
+          (bu reel ko'chada olinadi)
         </p>
       </div>
 
@@ -78,7 +87,9 @@ const App = () => {
         <p><strong>sana :</strong> 7-noyabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
-          ?
+          video stoldan 3-4 meter uzoqlikda turadi va shaxs kelib stolga laku ba ni qo'yadi va u boshqa narsaga chalg'iydi va kameraga korimay boshqa xonaga kiradi
+          va boshqa shaxs kelib stoldan turgan LA KUBA ni og'irlab ketadi.
+          (bu reelni ofisda ham ko'chada ham olsa bo'ladi)
         </p>
       </div>
 
@@ -88,30 +99,19 @@ const App = () => {
         <p><strong>sana :</strong> 10-noyabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
-          ?
+          kamera ofisga yoki boshqa manzaraga qaraydi videoning o'rtasida qora nuqta bo'ladi va qora nuqta kottalashib yaqinlashishi boshlaydi keyin
+          u nuqta la kuba aylanadi va lakubani tepadan pastdan o'ndan chapdan olingan edit boshlanadi
+          (bu reel ofisda ham ko'chada ham olsa bo'ladi)
         </p>
       </div>
 
       {/* ===================== FOTOLAR ===================== */}
       <h2>FOTOLAR (postlar)</h2>
 
-      {/* Foto 1 */}
-      <div className="card">
-        <h3>#1</h3>
-        <p><strong>sana :</strong> 20-oktabr</p>
-        <p><strong>type :</strong> carousel</p>
-        <p><strong>carousel :</strong></p>
-        <p className="idea">
-          1-fotoda odam LA KUBA ichib turgan boladi tepada esa yozga qaytmoqchimisiz ? degan tekst turadi
-          2-fotada esa osha LA KUBA ichgan odam yozga oxshagan backgroundda qarab turgan boladi va tepada tabrikayman siz yozga qaytdingiz degan tekst tura
-        </p>
-        <p><strong>caption :</strong> Yozga qaytmoqchimisiz? 🌞 La Kuba bilan his qiling!</p>
-      </div>
-
       {/* Foto 2 */}
       <div className="card">
         <h3>#2</h3>
-        <p><strong>sana :</strong> 22-oktabr</p>
+        <p><strong>sana :</strong> 25-oktabr</p>
         <p><strong>type :</strong> post</p>
         <p><strong>post :</strong></p>
         <p className="idea">
@@ -123,7 +123,7 @@ const App = () => {
       {/* Foto 3 */}
       <div className="card">
         <h3>#3</h3>
-        <p><strong>sana :</strong> 25-oktabr</p>
+        <p><strong>sana :</strong> 27-oktabr</p>
         <p><strong>type :</strong> post</p>
         <p><strong>post :</strong></p>
         <p className="idea">
@@ -135,7 +135,7 @@ const App = () => {
       {/* Foto 4 */}
       <div className="card">
         <h3>#4</h3>
-        <p><strong>sana :</strong> 28-oktabr</p>
+        <p><strong>sana :</strong> 29-oktabr</p>
         <p><strong>type :</strong> carousel</p>
         <p><strong>carousel :</strong></p>
         <p className="idea">
@@ -161,7 +161,7 @@ const App = () => {
       {/* Foto 6 */}
       <div className="card">
         <h3>#6</h3>
-        <p><strong>sana :</strong> 3-noyabr</p>
+        <p><strong>sana :</strong> 2-noyabr</p>
         <p><strong>type :</strong> post</p>
         <p><strong>post ideasi :</strong></p>
         <p className="idea">
@@ -173,7 +173,7 @@ const App = () => {
       {/* Foto 7 */}
       <div className="card">
         <h3>#7</h3>
-        <p><strong>sana :</strong> 6-noyabr</p>
+        <p><strong>sana :</strong> 4-noyabr</p>
         <p><strong>type :</strong> post</p>
         <p><strong>post ideasi :</strong></p>
         <p className="idea">
@@ -185,7 +185,7 @@ const App = () => {
       {/* Foto 8 */}
       <div className="card">
         <h3>#8</h3>
-        <p><strong>sana :</strong> 9-noyabr</p>
+        <p><strong>sana :</strong> 6-noyabr</p>
         <p><strong>type :</strong> post</p>
         <p><strong>post ideasi :</strong></p>
         <p className="idea">
