@@ -27,9 +27,9 @@ const App = () => {
         <p><strong>sana :</strong> 28-oktabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
-          leaderboard bo'ladi 1-7 gacha va shaxsga biz har hil tamli LA KUBA ni beramiz 
-          va ular har bir bankani ichib leadorboard da o'rin beradilar qisqa etkanda bu blink ranking 
-          (bu reel ofisda olinadi)
+          tepada tekst dushanba : ekranning o'rtasida la kuba va shaxs uning qo'li bilan oladi lekin shaxsning o'zi ko'rinmaydi
+           faqat ko'l va lakuba va keyin haftaning boshqa kunlari ham mashnaqa ssenaga oxshab davom etadi va har kun la kuba bankasi o'zgaradi
+           (bu reels ofisda olinadi)
         </p>
       </div>
 
@@ -51,9 +51,8 @@ const App = () => {
         <p><strong>sana :</strong> 1-noyabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
-          tepada tekst : "before" shaxs ko'chada zerikib yani hafa bo'lganday yuradi lekin LA KUBA SHATOOT ichgandan keyin ssena o'zgaradi endi tekst "after" ga o'zgaradi va shaxsning nastroyeniyasi yaxshi va quvonchga o'zgaradi 
-          keyin ssena endi ofisda ishlayotgan shaxsga o'zgaradi va u yerda 1-ssenada "before" da shaxs charchaganga oxshaydi va keyin u LA KUBA energietic ichadi va 2-ssenda "after" da shaxsga endi energiya kiradi yani u ishini alo darajada bajaryotgande o'zini ko'rsatadi
-          (bu reel kochada ham ofisda ham olinadi)
+         5ta LA KUBA banka ekranda turadi va huddi lotereyadaka ular random tanlanadi tepada esa tekst : "bugun qaysi la kuba ni ichaman?"
+         va oxirida bitta random tushmayda hammasi tanlanadi va tepadagi tekst : "hammasini" ga o'zgaradi
         </p>
       </div>
 
