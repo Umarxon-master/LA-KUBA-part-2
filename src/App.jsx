@@ -17,7 +17,6 @@ const App = () => {
         <p className="idea">
           bir odam boladi uning o‘ng qolida suv turadi va suv turgan qolning background kulrang boladi
           va uning chap qo‘lida esa LA KUBA bo‘ladi odam hayajonlanib LA KUBA ichida va butun background rangli yani normal holatiga tushadi
-          (bu reel ko'chada olinadi)
         </p>
       </div>
 
@@ -29,7 +28,6 @@ const App = () => {
         <p className="idea">
           tepada tekst dushanba : ekranning o'rtasida la kuba va shaxs uning qo'li bilan oladi lekin shaxsning o'zi ko'rinmaydi
            faqat ko'l va lakuba va keyin haftaning boshqa kunlari ham mashnaqa ssenaga oxshab davom etadi va har kun la kuba bankasi o'zgaradi
-           (bu reels ofisda olinadi)
         </p>
       </div>
 
@@ -41,7 +39,6 @@ const App = () => {
         <p className="idea">
           Banka sekin aylantiriladi juda tez aylantiriladi va har 2 sekundan keyin slow motion bo'ladi va u 1 sekund davom etadi 
           har bir slow motion sekunda so'zlar ko'rinadi 1-Tabiiy 2-Halal 3-SHATOOT 4-LA KUBA
-          (bu reel ofisda olinadi)
         </p>
       </div>
 
@@ -62,9 +59,9 @@ const App = () => {
         <p><strong>sana :</strong> 3-noyabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
-          hook bo'ladi : "har bir la kuba bankalari" har bir la kuba bankalari video ga tushadi orqasidan bankaga mos bo'lgan 
-          background rang qo'yiladi har bir banka 1 sekundan tushadi kamera har doim qimirlayotgan bo'ladi va CTA : "siz qaysi tamni tanlaysiz?"
-          (bu reel ofisda olinadi)
+          hook bo'ladi : "har bir LA KUBA" har bir la kuba bankalari video ga tushadi har bir banka 1 sekundan tushadi kamera har doim qimirlayotgan bo'ladi yoki bankaga 
+          yaqilnashvotgan   bo'ladi va har bir banka kadr da tepasida so'zlar bo'ladi so'zlarda
+           la kubaning nomlari bo'ladi va har bir nomlarning rangi bankaning rangiga mos bo'lgan bo'ladi  CTA : "siz qaysi tamni tanlaysiz?"
         </p>
       </div>
 
@@ -74,9 +71,8 @@ const App = () => {
         <p><strong>sana :</strong> 5-noyabr</p>
         <p><strong>reel ideasi :</strong></p>
         <p className="idea">
-          lakuba qog'ozga oralgan bo'ladi va kochada odamlardan so'raymiz "bu qog'ozning ichidagi ichimlikmi yoki 5ming som?"
-          birinchi va ikkinchi odam pullarni tanlashadi lekin 3-odam la kuba ni tanlayda ichadi va 1-10 gacha baho beradi baho 8 pas bo'lishi mumkinmas
-          (bu reel ko'chada olinadi)
+         1-kadrda la kuba bankasini butun suvini to'kilyotgan bo'ladi 
+         2-kadrda la kuba bankasi uyg'onadi va bo'lib o'tgan 1 kadr uning qo'rqinchli tushi bo'ladi va la luba terlab yon atrofga qaraydi keyin soatiga qarayda soat esa 3:00 am
         </p>
       </div>
 
@@ -100,7 +96,6 @@ const App = () => {
         <p className="idea">
           kamera ofisga yoki boshqa manzaraga qaraydi videoning o'rtasida qora nuqta bo'ladi va qora nuqta kottalashib yaqinlashishi boshlaydi keyin
           u nuqta la kuba aylanadi va lakubani tepadan pastdan o'ndan chapdan olingan edit boshlanadi
-          (bu reel ofisda ham ko'chada ham olsa bo'ladi)
         </p>
       </div>
 
